@@ -17,8 +17,14 @@ The app allows users to enter their **birth date** and instantly calculates thei
 ---
 
 ## 🖥️ Demo
-👉 [Streamlit App Link](https://share.streamlit.io/your-username/age-calculator/main/app.py)  
+👉 <img width="1250" height="567" alt="image" src="https://github.com/user-attachments/assets/0a316e76-3cdf-4083-b5c9-444881221d1d" />
+ 
 
 ---
 
 ## 📂 Project Structure
+age-calculator/
+│               
+├── app.py # Main Streamlit application               
+├── README.md # Project documentation               
+└── requirements.txt # Dependencies
